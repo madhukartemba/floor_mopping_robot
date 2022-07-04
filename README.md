@@ -3,4 +3,4 @@ This is a 3D printed floor mopping robot which moves around the room mopping the
 
 It has custom encoders on the wheels which track each wheel's speed. This data is used to adjust the speed of each wheel to make the robot go in a straight line regardless of the differences between the left and right motor friction or surface. In other words it has traction control.
 
-It uses an Arduino Nano as the main brains of the operation and also has a dock where it can charge.
+It uses an Arduino Nano and also has a 3D printed charging dock where it can charge. Its runtime on full charge is 3 hours and it takes 15 minutes to mop a whole room.
