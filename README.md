@@ -15,3 +15,8 @@ It uses an Arduino Nano and also has a 3D printed charging dock where it can cha
 ![p3](https://user-images.githubusercontent.com/97425422/177092876-14d5e27e-d916-41fc-a030-4d05f92dd1a4.PNG)
 ![p4](https://user-images.githubusercontent.com/97425422/177092879-b55eb5db-7e90-4b23-9a1d-f4add1201cfe.PNG)
 ![Version 1](https://user-images.githubusercontent.com/97425422/177092885-88425df3-1866-490e-810d-e7c155295565.jpg)
+![20200724_230619](https://user-images.githubusercontent.com/97425422/178092781-bcc7ef2f-4423-471e-bc5a-2d8a69d030b7.jpg)
+
+Internal View:
+
+![20200707_191756](https://user-images.githubusercontent.com/97425422/178092778-4221e905-ddc5-4740-bf4a-077cd881a35f.jpg)
